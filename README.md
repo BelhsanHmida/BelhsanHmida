@@ -1,6 +1,6 @@
 👋 Hi, I’m @BelhsanHmida
 - 👀 I’m interested in MLOps
-- 🌱 I’m currently learning Data Science and DSA
+- 🌱 I’m currently learning LLMs and RAG
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me mohamedbelhsanhmida@gmail.com
 
